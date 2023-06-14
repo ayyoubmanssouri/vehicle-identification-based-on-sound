@@ -1,2 +1,1 @@
-# vehicle-identification-based-on-sound
-Master Data Science S2 project
+# The 'icon.ico' must be the icon of the app
